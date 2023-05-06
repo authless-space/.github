@@ -1,4 +1,4 @@
-![Logo](profile/logo.png)
+![Logo](logo.png)
 
 # [Authless.space](https://authless.space)
 
