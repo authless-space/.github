@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![Logo](https://raw.githubusercontent.com/authless-space/.github/main/profile/logo.png)
 
 # [Authless.space](https://authless.space)
 
